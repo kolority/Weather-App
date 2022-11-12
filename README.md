@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Weather App using OpenWeatherMap API.
+
+Type a location to see current weather status!
 
 ## Available Scripts
 
